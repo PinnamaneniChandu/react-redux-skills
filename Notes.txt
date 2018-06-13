@@ -1,3 +1,0 @@
-npm install g create-react-app
-create-react-app react-redux-skills
-npm i redux react-redux redux-thunk
