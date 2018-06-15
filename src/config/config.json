@@ -1,0 +1,27 @@
+{
+    "errors":{
+        "enable":false
+    },
+    "security_questions":[
+        {
+            "questionid":"q1",
+            "desc":"what is your first pet name?"
+        },
+        {
+            "questionid":"q2",
+            "desc":"what is your first car model?"
+        },
+        {
+            "questionid":"q3",
+            "desc":"what is your mother maiden name?"
+        },
+        {
+            "questionid":"q4",
+            "desc":"which is your graduate college/university name?"
+        },
+        {
+            "questionid":"q5",
+            "desc":"which city you born?"
+        }
+    ]
+}
